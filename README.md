@@ -1,0 +1,1 @@
+The program goes through all the values ​​of the array that the user enters, comparing them with the minimum. If the value of the minimum is greater than the next element, then the minimum is changed to this element.
